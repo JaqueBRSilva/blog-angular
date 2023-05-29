@@ -1,28 +1,19 @@
-# BlogAngularDio
+# Blog Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.11.
+Desenvolvido nas aulas do Bootcamp **Potência Tech Angular Developer - Powered by iFood**, na [DIO](https://web.dio.me/track/potencia-tech-angular-developer-powered-ifood).
 
-## Development server
+Um blog com posts simples em formato de notícias sobre a Marvel.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<!-- <img src="" alt=""> -->
 
-## Code scaffolding
+O projeto foi gerado com [Angular CLI](https://angular.io/cli) version 14.2.11.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Design baseado [nesse layout](https://github.com/felipeAguiarCode/angular-blog/blob/main/.ideas/layout-componentizado.png?raw=true).
 
-## Build
+<br>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Executar Servidor
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# blog-angular-dio
+- Execute `ng serve` para rodar o servidor local
+- Entre no `http://localhost:4200/`
+- `Ctrl + C` para encerrar a execução
